@@ -24,7 +24,7 @@ from aiogram.types import (
 )
 
 BOT_TOKEN = "8228122380:AAHMoVMhMzVwIp--oHfWFJASh6bWwMWT8D8"
-BOT_USERNAME = "Safeee_Market_bot"
+BOT_USERNAME = "funpayDeallsRobot"
 SUPPORT_USERNAME = "Relayar_Funpay"
 BANNER_PATH = Path(__file__).with_name("funpay_banner.jpg")
 DATA_PATH = Path(os.getenv("BOT_DATA_PATH", str(Path(__file__).with_name("bot_data.json"))))
